@@ -20,12 +20,9 @@
 
 <table width="100">
 <tr>
-  
-
   <td align='center' width="200">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
- <td align='center' width="200">
+    </td><td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
     </td>
  

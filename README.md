@@ -40,7 +40,7 @@
 </tr>
 
 </table>
-<!
+<!--
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/nabeel-yousaf-44613b242/"><img src="https://img.shields.io/badge/-Nabeel%20Yousaf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -108,4 +108,4 @@
   Views<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
->
+-->

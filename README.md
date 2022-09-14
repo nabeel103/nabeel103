@@ -7,7 +7,7 @@
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/nabeel103/nabeel103/SidePicture.png) will started soon.
-<img align="right" alt="" src="SidePicture.png" width="270" />
+<img align="right" alt="" src="SidePicture.png" width="470" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)

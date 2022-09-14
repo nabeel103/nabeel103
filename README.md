@@ -5,8 +5,7 @@
 <p align="center">
 <a href="https://github.com/nabeel103"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Java+Developer;C+Sharp+Developer;C/Cpp&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/nabeel103/nabeel103/SidePicture.png) will started soon.
+
 <img align="right" alt="" src="SidePicture.png" width="370" />
 	
 ## My Python Development Course 

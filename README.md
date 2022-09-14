@@ -6,8 +6,8 @@
 <a href="https://github.com/nabeel103"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Java+Developer;C+Sharp+Developer;C/Cpp&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/nabeel103/nabeel103/SidePicture.PNG) will started soon.
-<img align="right" alt="" src="SidePicture.PNG" width="270" />
+- [MLSA Job Hunting Bootcamp](https://github.com/nabeel103/nabeel103/SidePicture.png) will started soon.
+<img align="right" alt="" src="SidePicture.png" width="270" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)

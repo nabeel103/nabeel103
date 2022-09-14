@@ -43,10 +43,10 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/nabeel-yousaf-44613b242/"><img src="https://img.shields.io/badge/-Nabeel%20Yousad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nabeel-yousaf-44613b242/"><img src="https://img.shields.io/badge/-Nabeel%20Yousaf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:n.y.562448@gmail.com"><img src="https://img.shields.io/badge/-n.y.562448@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nabeel._.yousaf/"><img src="https://img.shields.io/badge/-@nabeel._.yousaf-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/nabeel103/"><img src="https://img.shields.io/badge/-/nabeel103-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/nabeel103/"><img src="https://img.shields.io/badge/-nabeel103-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>

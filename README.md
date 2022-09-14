@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/nabeel103"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Java+Developer;C+Sharp+Developer;C/Cpp&center=true&width=500&height=50"></a>
 	
-<br>
+<hr>
 <img align="right" alt="" src="SidePicture.png" width="370" />
 	
 ## My Python Development Course 

@@ -5,12 +5,9 @@
 <p align="center">
 <a href="https://github.com/nabeel103"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Java+Developer;C+Sharp+Developer;C/Cpp&center=true&width=500&height=50"></a>
 	
-<hr>
-<img align="right" alt="" src="SidePicture.png" width="370" />
-	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
+<img align="right" alt="" src="SidePicture.png" width="340" />
+	
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
 - 🌱 I’m currently expanding my knowledge in DevOps.
